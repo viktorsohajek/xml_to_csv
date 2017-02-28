@@ -6,6 +6,7 @@ Currently set up for Criteo API reponses. Criteo xml structure is: report->table
 If universal use is desired then user has to alter/drop:
 * table_index=find_index(etree,'table')
 * rows_index=find_index(data,'rows')
+
 to suitable form.
 
 Ask for help at sohajek.viktor@gmail.com

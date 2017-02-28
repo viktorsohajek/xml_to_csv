@@ -10,3 +10,13 @@ If universal use is desired then user has to alter/drop:
 to suitable form.
 
 Ask for help at sohajek.viktor@gmail.com
+
+Illustrative print screens:
+
+IN:
+![alt text][xml_input]
+OUT:
+![alt text][csv_output]
+
+[xml_input]: https://github.com/viktorsohajek/xml_to_csv/blob/master/xml_input.png "xml_input"
+[csv_output]: https://github.com/viktorsohajek/xml_to_csv/blob/master/csv_output.png "csv_output"
